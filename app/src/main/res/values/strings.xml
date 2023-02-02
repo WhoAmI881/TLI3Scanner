@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TLI3Scanner</string>
+    <string name="language">Язык</string>
+    <string name="information">О нас</string>
+    <string name="help">Справка</string>
+    <string name="feedback">Обратная связь</string>
+
+    <string name="history">История</string>
+    <string name="close">Закрыть</string>
+    <string name="done">Выбрать</string>
+    <string name="start">Начать</string>
+    <string name="share">Поделиться</string>
+    <string name="open_with">Открыть с</string>
+    <string name="print">Печать</string>
+
+    <string name="permission">Отсутствуют\nтребуемые разрешения</string>
+    <string name="wifi_error">Отсутствует подключение\nк интеренету</string>
+    <string name="init_device">Направьте на QR-код</string>
+    <string name="check_exist">Поиск отчета в облаке</string>
+    <string name="search_device">QR-код перестал читаться</string>
+    <string name="hold_button_device">Удержите кнопку ТЛ-И3\nдля передачи данных</string>
+    <string name="ready_report">Отведите камеру\nпо завершении индикации</string>
+    <string name="get_result">Обработка данных</string>
+    <string name="success_processing">Успешно</string>
+    <string name="video_not_sending">Не удалось отправить видео</string>
+    <string name="report_not_download">Не удалось скачать отчет</string>
+    <string name="error_processing">Не удалось получить отчет,\nповторите попытку</string>
+    <string name="error_wifi_timeout">Плохая связь,\nповторяем отправку…</string>
+    <string name="open_report">Открыть отчет</string>
+
+    <string name="web_version">Веб. версия приложения:</string>
+    <string name="url_web_app"><u>www.tli3.ru</u></string>
+    <string name="manufacturer">Сайт производителя:</string>
+    <string name="url_maker"><u>termologika.ru</u></string>
+    <string name="last_update">Последние обновления:</string>
+    <string name="url_update"><u>install.appcenter.ms</u></string>
+
+    <string name="rus">Русский</string>
+    <string name="eng">Английский</string>
+
+    <string name="select_lang">ru</string>
+    <string name="report_lang">rus</string>
+    <string name="change_lang">en</string>
+
+</resources>

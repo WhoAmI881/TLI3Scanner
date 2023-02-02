@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuLanguage"
+        android:icon="@drawable/ic_language"
+        android:title="@string/language"/>
+    <item
+        android:id="@+id/menuHelp"
+        android:icon="@drawable/ic_help"
+        android:title="@string/help"/>
+    <item
+        android:id="@+id/menuFeedback"
+        android:icon="@drawable/ic_feedback"
+        android:title="@string/feedback"/>
+    <item
+        android:id="@+id/menuInformation"
+        android:icon="@drawable/ic_info"
+        android:title="@string/information"/>
+
+</menu>
